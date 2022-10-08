@@ -1,5 +1,4 @@
 - 👋 Hola soy @guillegiuu, como estás ?
-- 🤓 Estoy constantemente aprendiendo. 
 - 👨🏻‍💻 Soy un autodidacta del mundo de la programacion. 
 
 <!---
