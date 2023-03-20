@@ -2,9 +2,9 @@
 
 ![guillegiu-dev-fullstack](https://user-images.githubusercontent.com/115334202/226219603-f682c624-ca67-4533-8fea-e80f2af71f41.jpg)
     
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Guillermo Giusso a future programmer, learning Full Stack Development Web👨🏻‍💻 with specialization in technologies in a self-taught way. In love with coding challenges.
+### ¡Hola! Soy Guillermo Giusso un aspirante Full Stack Developer con especialización en tecnologías de manera Autodidacta. Enamorado de los desafíos de codificación.
 
 ### 📚 Learning:
 [![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&https://www.udemy.com/user/guillermo-g-7/)](https://www.udemy.com/user/guillermo-g-7/)
@@ -24,7 +24,6 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU5MWZlYjhhZTA2YWEyMzJkMDBiODgzM2JiZmEyNWIwMjJlZTFiOCZjdD1n/4rZA5D22301iMgrUNd/giphy-downsized.gif" />
   
 ### 👨‍💻 Languages and Tools:
-
 
 [![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white&https://replit.com/@GuilleG?tab=repls)](https://replit.com/@GuilleG?tab=repls)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&https://replit.com/@GuilleG?path=folder/100DaysOfReplit)](https://replit.com/@GuilleG?path=folder/100DaysOfReplit)
