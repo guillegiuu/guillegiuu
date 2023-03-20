@@ -27,7 +27,6 @@
 
 
 [![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white&https://replit.com/@GuilleG?tab=repls)](https://replit.com/@GuilleG?tab=repls)
-[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&https://github.com/guillegiuu)](https://github.com/guillegiuu)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&https://replit.com/@GuilleG?path=folder/100DaysOfReplit)](https://replit.com/@GuilleG?path=folder/100DaysOfReplit)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&https://github.com/guillegiuu)](https://github.com/guillegiuu)
