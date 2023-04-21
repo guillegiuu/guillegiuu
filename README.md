@@ -9,6 +9,8 @@
 ### 📚 Learning:
 [![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&https://www.udemy.com/user/guillermo-g-7/)](https://www.udemy.com/user/guillermo-g-7/)
 
+[![platzi](https://drive.google.com/file/d/1ksUzzVZk10tqb5Dpg6mzs8zA3caxU57Y/view?usp=share_link&https://platzi.com/p/devgiu_/)](https://platzi.com/p/devgiu_/)
+
 <br />
 
 ### 💻 Social Networks:
