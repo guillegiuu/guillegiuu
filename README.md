@@ -9,6 +9,7 @@
 ### 📚 Learning:
 [![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&https://www.udemy.com/user/guillermo-g-7/)](https://www.udemy.com/user/guillermo-g-7/)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green&https://www.freecodecamp.org/devgiu_)](https://www.freecodecamp.org/devgiu_)
+[![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347&https://www.codecademy.com/profiles/devgiu_)](https://www.codecademy.com/profiles/devgiu_)
 
 
 <br />
@@ -17,7 +18,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/guillermo-giusso/)](https://www.linkedin.com/in/guillermo-giusso/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&https://github.com/guillegiuu)](https://github.com/guillegiuu)
-[![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347&https://github.com/guillegiuu)](https://github.com/guillegiuu)
+
 
 [![ig](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/devgiu_/)](https://www.instagram.com/devgiu_/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&https://twitter.com/_guillegiu)](https://twitter.com/_guillegiu)
