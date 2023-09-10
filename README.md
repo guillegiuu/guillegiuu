@@ -8,7 +8,7 @@
 
 ### 📚 Learning:
 [![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&https://www.udemy.com/user/guillermo-g-7/)](https://www.udemy.com/user/guillermo-g-7/)
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green&https://www.freecodecamp.org/devgiu_)](https://www.freecodecamp.org/devgiu_)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green&https://www.freecodecamp.org/Guillermo_Giusso)](https://www.freecodecamp.org/Guillermo_Giusso)
 [![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347&https://www.codecademy.com/profiles/guillegiu_)](https://www.codecademy.com/profiles/guillegiu_)
 
 
