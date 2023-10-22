@@ -4,7 +4,7 @@
     
 ## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### ¡Hola! Soy Guillermo Giusso un aspirante Full Stack Developer con especialización en tecnologías de manera Autodidacta. Enamorado de los desafíos de codificación.
+### ¡Hola! Soy Guillermo Giusso, un aspirante a Full Stack Developer con especialización en tecnologías que he adquirido de manera autodidacta. Me apasionan los desafíos de la codificación y estoy comprometido en continuar aprendiendo y creciendo en este emocionante campo. La resolución de problemas y la creación de soluciones innovadoras son mi motivación constante. Estoy emocionado por lo que el futuro tiene reservado en mi camino como desarrollador.
 
 ### 📚 Learning:
 [![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&https://www.udemy.com/user/guillermo-g-7/)](https://www.udemy.com/user/guillermo-g-7/)
