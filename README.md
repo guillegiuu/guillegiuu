@@ -7,7 +7,6 @@
 ### ¡Hola! Soy Guillermo Giusso, un aspirante a Full Stack Developer con especialización en tecnologías que he adquirido de manera autodidacta. Me apasionan los desafíos de la codificación y estoy comprometido en continuar aprendiendo y creciendo en este emocionante campo. La resolución de problemas y la creación de soluciones innovadoras son mi motivación constante. Estoy emocionado por lo que el futuro tiene reservado en mi camino como desarrollador.
 
 ### 📚 Learning:
-[![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white&https://www.udemy.com/user/guillermo-g-7/)](https://www.udemy.com/user/guillermo-g-7/)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green&https://www.freecodecamp.org/Guillermo_Giusso)](https://www.freecodecamp.org/Guillermo_Giusso)
 [![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347&https://www.codecademy.com/profiles/guillegiu_)](https://www.codecademy.com/profiles/guillegiu_)
 
