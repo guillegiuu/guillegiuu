@@ -36,6 +36,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&https://github.com/guillegiuu)](https://github.com/guillegiuu)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&https://github.com/guillegiuu)](https://github.com/guillegiuu)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&https://replit.com/@GuilleG?tab=repls)](https://replit.com/@GuilleG?tab=repls)
-
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&https://github.com/guillegiuu)](https://github.com/guillegiuu)
 
 ⭐️ From [@guillegiuu](https://github.com/guillegiuu)
