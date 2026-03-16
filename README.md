@@ -21,6 +21,8 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 
 ## 📊 GitHub Activity
 
+### Guille Giu — GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillegiu&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillegiu&layout=compact&theme=tokyonight)
@@ -45,7 +47,7 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 
 <br />
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU5MWZlYjhhZTA2YWEyMzkwMjkzMDBiODgzM2JiZmEyNjZmMWI0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy-downsized.gif" />
 
 ### 🛠 Languages and Tools
 
