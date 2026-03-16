@@ -1,7 +1,7 @@
 ### Hola, Mundo! 🚀
 
-![guillegiu-dev-fullstack](https://user-images.githubusercontent.com/115334202/226219603-f682c624-ca67-4533-8fea-e80f2af71f41.jpg)
-    
+![guillegiu-dev-fullstack](https://user-images.githubusercontent.com/115334202/226219603-f682c624-ca67-4533-8fea-e80f2af71f41.jpeg)
+
 ## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### 👋 Hola! Soy Guille Giu
@@ -19,6 +19,16 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 
 ---
 
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillegiu&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillegiu&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=guillegiu&theme=tokyonight)
+
+---
+
 ### 📚 Learning
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%2321313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/Guillermo_Giusso)
@@ -33,8 +43,9 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillegiu)
 
----
+<br />
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU5MWZlYjhhZTA2YWEyMzkwMjkzMDBiODgzM2JiZmEyNjZmMWI0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy-downsized.gif" />
 
 ### 🛠 Languages and Tools
 
@@ -46,4 +57,4 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillegiu)
 
-⭐️ From [@guillegiuu](https://github.com/guillegiuu)
+⭐ From [@guillegiu](https://github.com/guillegiu)
