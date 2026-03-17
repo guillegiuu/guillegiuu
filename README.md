@@ -32,15 +32,6 @@ Proyecto introductorio en Python donde desarrollo un sistema básico para genera
 🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats_receipts.py
 
 ---
-### 🟢 Block Letters
-Generador de letras en formato ASCII.
-
-- Manejo de strings  
-- Formateo de salida  
-- Lógica básica  
-
-
----
 📁 Ver todos los proyectos:  
 👉 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects
 
