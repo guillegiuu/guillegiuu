@@ -31,7 +31,17 @@ Proyecto introductorio en Python donde desarrollo un sistema básico para genera
 
 🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats_receipts.py
 
+### 🔮 Magic 8-Ball
+Simulación de una bola mágica que responde preguntas usando control flow.
+
+- Condicionales (`if / elif / else`)  
+- Números aleatorios (`random`)  
+- Lógica de decisiones  
+
+🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic_8_ball.py
+
 ---
+
 📁 Ver todos los proyectos:  
 👉 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects
 
