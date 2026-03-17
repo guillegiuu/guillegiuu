@@ -8,14 +8,13 @@
 
 ### 👋 Hola! Soy Guille Giu
 
-Estudiante autodidacta de **Computer Science y programación**.
+Estudiante autodidacta de Computer Science enfocado en Python y Data Structures.
 
 Actualmente estoy construyendo una base sólida en:
 
-- Python  
-- Algorithms  
-- Data Structures  
-- Computer Science  
+- Python
+- Data Structures
+- Algorithms
 
 Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 
@@ -49,7 +48,6 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 
 <br />
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🛠 Languages and Tools
 
