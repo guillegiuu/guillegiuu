@@ -1,6 +1,6 @@
 ### Hola, Mundo! 🚀
 
-![guillegiu-dev-fullstack](https://user-images.githubusercontent.com/115334202/226219603-f682c624-ca67-4533-8fea-e80f2af71f41.jpeg)
+<img src="0001-banner-github.png" alt="banner" width="100%">
 
 ## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
