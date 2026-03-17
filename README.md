@@ -10,7 +10,7 @@
 
 Estudiante autodidacta de Computer Science enfocado en Python y Data Structures.
 
-Actualmente estoy construyendo una base sólida en:
+💡 Construyendo una base sólida en Computer Science y Python, paso a paso.
 
 - Python  
 - Data Structures  
@@ -19,7 +19,6 @@ Actualmente estoy construyendo una base sólida en:
 Mientras documento mi proceso de aprendizaje y desarrollo de proyectos en GitHub.
 
 ---
-
 # 🚀 Featured Projects
 
 ### 🟢 LoveSeats Receipts
@@ -33,7 +32,6 @@ Proyecto introductorio en Python donde desarrollo un sistema básico para genera
 🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats_receipts.py
 
 ---
-
 ### 🟢 Block Letters
 Generador de letras en formato ASCII.
 
@@ -41,13 +39,27 @@ Generador de letras en formato ASCII.
 - Formateo de salida  
 - Lógica básica  
 
----
 
+---
 📁 Ver todos los proyectos:  
 👉 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects
 
 ---
+## 🧭 Learning Journey
 
+🚀 From Zero to Software Engineer
+
+Actualmente estoy construyendo mi camino en Computer Science desde cero, enfocándome en:
+
+- 🧠 Fundamentos sólidos de programación
+- 💻 Práctica constante en Python
+- 📚 Apuntes visuales y teoría clara
+- 🗺️ Roadmap estructurado paso a paso
+
+👉 Seguir mi progreso:
+https://github.com/guillegiuu/from-zero-to-software-engineer
+
+---
 ## 📊 GitHub Activity
 
 ### Guille Giu - GitHub Stats
@@ -59,7 +71,6 @@ Generador de letras en formato ASCII.
 ![GitHub Streak](https://streak-stats.demolab.com?user=guillegiuu&theme=tokyonight)
 
 ---
-
 ## 📚 Learning
 
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23202313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/Guillermo_Giusso)
@@ -67,7 +78,6 @@ Generador de letras en formato ASCII.
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiuu)
 
 ---
-
 ## 🌐 Social Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-giusso/)
@@ -85,5 +95,4 @@ Generador de letras en formato ASCII.
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/guillegiuu)
 
 ---
-
 ⭐ From @guillegiuu
