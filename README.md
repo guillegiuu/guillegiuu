@@ -6,17 +6,17 @@
 
 ## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-👋 Hola! Soy **Guille Giu**
-
-Estudiante autodidacta de Computer Science enfocado en Python y Data Structures.
+👋 Hola! Soy Guille Giu
 
 💡 Construyendo una base sólida en Computer Science y Python, paso a paso.
 
-- Python  
-- Data Structures  
-- Algorithms  
+Actualmente enfocado en:
 
-Mientras documento mi proceso de aprendizaje y desarrollo de proyectos en GitHub.
+- Python
+- Data Structures
+- Algorithms
+
+Documentando mi progreso y proyectos en GitHub.
 
 ---
 # 🚀 Featured Projects
@@ -49,14 +49,14 @@ Generador de letras en formato ASCII.
 
 🚀 From Zero to Software Engineer
 
-Actualmente estoy construyendo mi camino en Computer Science desde cero, enfocándome en:
+Este repositorio documenta mi progreso en Computer Science desde cero, incluyendo:
 
 - 🧠 Fundamentos sólidos de programación
 - 💻 Práctica constante en Python
 - 📚 Apuntes visuales y teoría clara
 - 🗺️ Roadmap estructurado paso a paso
 
-👉 Seguir mi progreso:
+👉 Ver roadmap completo:
 https://github.com/guillegiuu/from-zero-to-software-engineer
 
 ---
