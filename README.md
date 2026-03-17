@@ -31,6 +31,20 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 ![GitHub Streak](https://streak-stats.demolab.com?user=guillegiu&theme=tokyonight)
 
 ---
+## 🚀 Featured Projects
+
+### 🧾 Receipts for Lovely Loveseats (Python Project)
+Proyecto introductorio en Python donde desarrollo un sistema básico para generar recibos de compra.
+
+- Uso de variables y operaciones matemáticas
+- Concatenación de strings para generar outputs
+- Cálculo de impuestos y totales
+- Simulación de un flujo real de compra
+
+📌 Proyecto realizado en Codecademy
+
+---
+
 
 ### 📚 Learning
 
