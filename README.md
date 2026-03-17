@@ -33,7 +33,7 @@ Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
 ---
 ## 🚀 Featured Projects
 
-### 🧾 Receipts for Lovely Loveseats (Python Project)
+### 🧾[Receipts for Lovely Loveseats](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats_receipts.py)
 Proyecto introductorio en Python donde desarrollo un sistema básico para generar recibos de compra.
 
 - Uso de variables y operaciones matemáticas
