@@ -62,7 +62,6 @@ Proyecto introductorio en Python donde desarrollo un sistema básico para genera
 
 <br />
 
-
 ### 🛠 Languages and Tools
 
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@GuilleG)
