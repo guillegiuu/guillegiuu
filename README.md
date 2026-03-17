@@ -1,5 +1,7 @@
 ### Hola, Mundo! 🚀
 
+<br>
+
 <img src="0001-banner-github.png" alt="banner" width="100%">
 
 ## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
