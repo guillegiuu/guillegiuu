@@ -6,70 +6,84 @@
 
 ## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### 👋 Hola! Soy Guille Giu
+👋 Hola! Soy **Guille Giu**
 
 Estudiante autodidacta de Computer Science enfocado en Python y Data Structures.
 
 Actualmente estoy construyendo una base sólida en:
 
-- Python
-- Data Structures
-- Algorithms
+- Python  
+- Data Structures  
+- Algorithms  
 
-Mientras documento mi proceso de aprendizaje y desarrollo proyectos en GitHub.
+Mientras documento mi proceso de aprendizaje y desarrollo de proyectos en GitHub.
+
+---
+
+# 🚀 Featured Projects
+
+### 🟢 LoveSeats Receipts
+Proyecto introductorio en Python donde desarrollo un sistema básico para generar recibos de compra.
+
+- Uso de variables y operaciones matemáticas  
+- Concatenación de strings para generar outputs  
+- Cálculo de impuestos y totales  
+- Simulación de un flujo real de compra  
+
+🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats_receipts.py
+
+---
+
+### 🟢 Block Letters
+Generador de letras en formato ASCII.
+
+- Manejo de strings  
+- Formateo de salida  
+- Lógica básica  
+
+---
+
+📁 Ver todos los proyectos:  
+👉 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects
 
 ---
 
 ## 📊 GitHub Activity
 
-### Guille Giu — GitHub Stats
+### Guille Giu - GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillegiu&show_icons=true&hide_title=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillegiuu&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillegiu&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillegiuu&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=guillegiu&theme=tokyonight)
-
----
-## 🚀 Featured Projects
-
-### 🧾[Receipts for Lovely Loveseats](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats_receipts.py)
-Proyecto introductorio en Python donde desarrollo un sistema básico para generar recibos de compra.
-
-- Uso de variables y operaciones matemáticas
-- Concatenación de strings para generar outputs
-- Cálculo de impuestos y totales
-- Simulación de un flujo real de compra
-
-📌 Proyecto realizado en Codecademy
+![GitHub Streak](https://streak-stats.demolab.com?user=guillegiuu&theme=tokyonight)
 
 ---
 
+## 📚 Learning
 
-### 📚 Learning
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23202313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/Guillermo_Giusso)
 
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%2321313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/Guillermo_Giusso)
-
-[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiu_)
+[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiuu)
 
 ---
 
-### 🌐 Social Networks
+## 🌐 Social Networks
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-giusso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-giusso/)
 
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillegiu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillegiuu)
 
-<br />
+<br>
 
-### 🛠 Languages and Tools
+## 🛠️ Languages and Tools
 
-[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@GuilleG)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@GuilleG)
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://replit.com/@GuilleG)
 
-[![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/guillegiu)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/guillegiuu)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillegiu)
+---
 
-⭐ From [@guillegiu](https://github.com/guillegiu)
+⭐ From @guillegiuu
