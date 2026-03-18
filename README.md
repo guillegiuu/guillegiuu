@@ -69,8 +69,7 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 - 📚 Apuntes visuales y teoría clara
 - 🗺️ Roadmap estructurado paso a paso
 
-👉 Ver roadmap completo:
-https://github.com/guillegiuu/from-zero-to-software-engineer
+👉 [Ver roadmap completo](https://github.com/guillegiuu/from-zero-to-software-engineer)
 
 ---
 ## 📊 GitHub Activity
