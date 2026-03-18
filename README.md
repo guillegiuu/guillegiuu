@@ -40,6 +40,18 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 
 🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic_8_ball.py
 
+### 💈 Carly's Clippers
+Análisis de precios y servicios en una peluquería utilizando loops y listas.
+
+- Loops (`for`)
+- Listas
+- `len()`
+- List comprehension
+- Cálculo de promedio y revenue
+- Filtrado de datos
+
+🔗 https://github.com/guillegiuu/python-mini-projects/blob/main/mini-projects/06-carlys-clippers-loops.py
+
 ---
 
 📁 Ver todos los proyectos:  
