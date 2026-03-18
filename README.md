@@ -29,7 +29,7 @@ Proyecto introductorio en Python donde desarrollo un sistema básico para genera
 - Cálculo de impuestos y totales  
 - Simulación de un flujo real de compra  
 
-🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats_receipts.py
+🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/02-loveseats_receipts.py
 
 ### 🔮 Magic 8-Ball
 Simulación de una bola mágica que responde preguntas usando control flow.
@@ -38,7 +38,7 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 - Números aleatorios (`random`)  
 - Lógica de decisiones  
 
-🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic_8_ball.py
+🔗 https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/03-magic_8_ball.py
 
 ### 💈 Carly's Clippers
 Análisis de precios y servicios en una peluquería utilizando loops y listas.
