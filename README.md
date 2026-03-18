@@ -86,9 +86,9 @@ https://github.com/guillegiuu/from-zero-to-software-engineer
 ---
 ## 📚 Learning
 
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23202313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/Guillermo_Giusso)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23202313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/guillegiuu)
 
-[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiuu)
+[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiu)
 
 ---
 ## 🌐 Social Networks
