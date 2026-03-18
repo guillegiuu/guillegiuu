@@ -101,7 +101,7 @@ https://github.com/guillegiuu/from-zero-to-software-engineer
 
 ## 🛠️ Languages and Tools
 
-[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@GuilleG)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://replit.com/@GuilleG)
 
