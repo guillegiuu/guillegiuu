@@ -6,9 +6,9 @@
 
 ## Bienvenido a mi Mundo Coding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-👋 Hola! Soy Guille Giu
+👋 Hola! Soy Guille
 
-💡 Construyendo una base sólida en Computer Science y Python, paso a paso.
+💡 Construyendo una base sólida en Computer Science y Python.
 
 Actualmente enfocado en:
 
@@ -16,7 +16,7 @@ Actualmente enfocado en:
 - Data Structures
 - Algorithms
 
-Documentando mi progreso y proyectos en GitHub.
+Compartiendo mis proyectos y evolución en GitHub.
 
 ---
 # 🚀 Featured Projects
