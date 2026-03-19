@@ -56,9 +56,11 @@ Análisis de precios y servicios en una peluquería utilizando loops y listas.
 
 ## 🚀 Explorar más proyectos
 
+
 📂 [Ver todos los proyectos](https://github.com/guillegiuu/python-mini-projects)
 
 ---
+
 ## 🧭 Learning Journey
 
 🚀 From Zero to Software Engineer
