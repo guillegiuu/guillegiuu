@@ -29,7 +29,7 @@ Proyecto introductorio en Python donde desarrollo un sistema básico para genera
 - Cálculo de impuestos y totales  
 - Simulación de un flujo real de compra  
 
-🔗 [Ver código: LoveSeats Receipts](https://github.com/guillegiuu/python-mini-projects/blob/main/mini-projects/02-loveseats_receipts.py)
+🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats-receipts)
 
 ### 🔮 Magic 8-Ball
 Simulación de una bola mágica que responde preguntas usando control flow.
