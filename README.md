@@ -38,7 +38,7 @@ Simulación de una bola mágica que responde preguntas usando control flow.
 - Números aleatorios (`random`)  
 - Lógica de decisiones  
 
-🔗 [Ver código: Magic 8 Ball](https://github.com/guillegiuu/python-mini-projects/blob/main/mini-projects/03-magic_8_ball.py)
+🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic-8-ball)
 
 ### 💈 Carly's Clippers
 Análisis de precios y servicios en una peluquería utilizando loops y listas.
