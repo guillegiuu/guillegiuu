@@ -50,7 +50,7 @@ Análisis de precios y servicios en una peluquería utilizando loops y listas.
 - Cálculo de promedio y revenue
 - Filtrado de datos
 
-🔗 [Ver código: Carly's Clippers](https://github.com/guillegiuu/python-mini-projects/blob/main/mini-projects/06-carlys-clippers-loops.py)
+🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/carlys-clippers)
 
 ---
 
