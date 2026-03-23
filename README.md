@@ -19,49 +19,23 @@ Actualmente enfocado en:
 Compartiendo mis proyectos y evolución en GitHub.
 
 ---
-# 🚀 Featured Projects
 
-### 🟢 LoveSeats Receipts
-Proyecto introductorio en Python donde desarrollo un sistema básico para generar recibos de compra.
+## 🚀 Proyectos destacados
 
-- Uso de variables y operaciones matemáticas  
-- Concatenación de strings para generar outputs  
-- Cálculo de impuestos y totales  
-- Simulación de un flujo real de compra  
+- 🧾 **LoveSeats Receipts** → cálculos y generación de recibos  
+  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats-receipts)
 
-🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats-receipts)
+- 🎱 **Magic 8-Ball** → lógica de decisiones y random  
+  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic-8-ball)
 
-### 🔮 Magic 8-Ball
-Simulación de una bola mágica que responde preguntas usando control flow.
+- 💈 **Carly's Clippers** → análisis simple con listas y loops  
+  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/carlys-clippers)
 
-- Condicionales (`if / elif / else`)  
-- Números aleatorios (`random`)  
-- Lógica de decisiones  
-
-🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic-8-ball)
-
-### 💈 Carly's Clippers
-Análisis de precios y servicios en una peluquería utilizando loops y listas.
-
-- Loops (`for`)
-- Listas
-- `len()`
-- List comprehension
-- Cálculo de promedio y revenue
-- Filtrado de datos
-
-🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/carlys-clippers)
+📁 [Ver todos los proyectos](https://github.com/guillegiuu/python-mini-projects)
 
 ---
 
-## 🚀 Explorar más proyectos
-
-
-📂 [Ver todos los proyectos](https://github.com/guillegiuu/python-mini-projects)
-
----
-
-## 🧭 Learning Journey
+## 🧭 Mi camino como desarrollador
 
 🚀 From Zero to Software Engineer
 
@@ -75,7 +49,7 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 👉 [Ver roadmap completo](https://github.com/guillegiuu/from-zero-to-software-engineer)
 
 ---
-## 📊 GitHub Activity
+## 📊 Actividad en GitHub
 
 ### Guille Giu - GitHub Stats
 
@@ -86,14 +60,14 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 ![GitHub Streak](https://streak-stats.demolab.com?user=guillegiuu&theme=tokyonight)
 
 ---
-## 📚 Learning
+## 🎓 Formación
 
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23202313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/guillegiuu)
 
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiu)
 
 ---
-## 🌐 Social Networks
+## 🌐 Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-giusso/)
 
@@ -101,7 +75,7 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 
 <br>
 
-## 🛠️ Languages and Tools
+## 🛠️ Tecnologías y herramientas
 
 [![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 
