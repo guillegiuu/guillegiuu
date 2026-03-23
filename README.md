@@ -75,6 +75,8 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 
 <br>
 
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 [![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
