@@ -73,8 +73,6 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillegiuu)
 
-<br>
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
