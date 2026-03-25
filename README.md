@@ -22,7 +22,7 @@ Compartiendo mis proyectos y evolución en GitHub.
 
 ## 🚀 Proyectos destacados
 
-- 🧭 **The Boredless Tourist** → sistema de recomendación en Python  
+- 🧭 **The Boredless Tourist** → sistema de recomendación dinámico basado en preferencias del usuario  
   🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/boredless-tourist)
 
 - 🎱 **Magic 8-Ball** → lógica de decisiones y random  
