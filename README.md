@@ -22,8 +22,8 @@ Compartiendo mis proyectos y evolución en GitHub.
 
 ## 🚀 Proyectos destacados
 
-- 🧾 **LoveSeats Receipts** → cálculos y generación de recibos  
-  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/loveseats-receipts)
+- 🧭 **The Boredless Tourist** → sistema de recomendación en Python  
+  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/boredless-tourist)
 
 - 🎱 **Magic 8-Ball** → lógica de decisiones y random  
   🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic-8-ball)
