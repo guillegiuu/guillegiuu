@@ -22,14 +22,14 @@ Compartiendo mis proyectos y evolución en GitHub.
 
 ## 🚀 Proyectos destacados
 
-- 🛠️ **Hacking The Fender** → manejo de archivos, CSV, JSON y automatización de datos
-  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/hacking-the-fender)
+- 🎮 **Survival: The First Night** → juego interactivo en terminal con toma de decisiones y múltiples resultados  
+  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/portfolio-project-py-terminal-game)
 
-- 🌍 **The Boredless Tourist** → sistema de recomendación dinámico basado en preferencias del usuario
+- 🎰 **OOP Casino Simulation** → progresión completa aplicando Programación Orientada a Objetos (OOP) en Python  
+  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/python-oop-projects)
+
+- 🧭 **The Boredless Tourist** → sistema de recomendación dinámico basado en preferencias del usuario  
   🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/boredless-tourist)
-
-- 🎰 **OOP Casino Simulation** → progresión completa aplicando Programación Orientada a Objetos (OOP) en Python
-🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/python-oop-projects)
 
 
 📁 [Ver todos los proyectos](https://github.com/guillegiuu/python-mini-projects)
