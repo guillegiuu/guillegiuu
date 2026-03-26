@@ -22,14 +22,15 @@ Compartiendo mis proyectos y evolución en GitHub.
 
 ## 🚀 Proyectos destacados
 
-- 🧭 **The Boredless Tourist** → sistema de recomendación dinámico basado en preferencias del usuario  
+- 🛠️ **Hacking The Fender** → manejo de archivos, CSV, JSON y automatización de datos
+  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/hacking-the-fender)
+
+- 🌍 **The Boredless Tourist** → sistema de recomendación dinámico basado en preferencias del usuario
   🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/boredless-tourist)
 
-- 🎱 **Magic 8-Ball** → lógica de decisiones y random  
+- 🎱 **Magic 8-Ball** → lógica de decisiones y random
   🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic-8-ball)
 
-- 💈 **Carly's Clippers** → análisis simple con listas y loops  
-  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/carlys-clippers)
 
 📁 [Ver todos los proyectos](https://github.com/guillegiuu/python-mini-projects)
 
