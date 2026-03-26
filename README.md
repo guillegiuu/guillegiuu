@@ -28,8 +28,8 @@ Compartiendo mis proyectos y evolución en GitHub.
 - 🌍 **The Boredless Tourist** → sistema de recomendación dinámico basado en preferencias del usuario
   🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/boredless-tourist)
 
-- 🎱 **Magic 8-Ball** → lógica de decisiones y random
-  🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/magic-8-ball)
+- 🎰 **OOP Casino Simulation** → progresión completa aplicando Programación Orientada a Objetos (OOP) en Python
+🔗 [Ver proyecto](https://github.com/guillegiuu/python-mini-projects/tree/main/mini-projects/python-oop-projects)
 
 
 📁 [Ver todos los proyectos](https://github.com/guillegiuu/python-mini-projects)
