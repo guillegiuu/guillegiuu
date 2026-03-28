@@ -54,11 +54,13 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 
 ### Guille Giu - GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillegiuu&show_icons=true&theme=tokyonight)
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillegiuu&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guillegiuu&theme=tokyonight)
+
+</div>
 
 ---
 ## 🎓 Formación
