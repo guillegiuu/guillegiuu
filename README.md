@@ -52,7 +52,7 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 ---
 ## 📊 Actividad en GitHub
 
-### Guille Giu - GitHub Stats
+<h3 align="center">Guille Giu - GitHub Stats</h3>
 
 <div align="center">
 
