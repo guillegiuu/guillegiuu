@@ -50,19 +50,7 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 👉 [Ver roadmap completo](https://github.com/guillegiuu/from-zero-to-software-engineer)
 
 ---
-## 📊 Actividad en GitHub
 
-<h3 align="center">Guille Giu - GitHub Stats</h3>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillegiuu&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=guillegiuu&theme=tokyonight)
-
-</div>
-
----
 ## 🎓 Formación
 
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23202313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/guillegiuu)
