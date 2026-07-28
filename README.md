@@ -52,10 +52,12 @@ Este repositorio documenta mi progreso en Computer Science desde cero, incluyend
 ---
 
 ## 🎓 Formación
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3profile.com/guillegiu/)
+
+[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiu)
 
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%23202313.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/guillegiuu)
 
-[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/guillegiu)
 
 ---
 ## 🌐 Redes
